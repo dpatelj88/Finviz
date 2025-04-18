@@ -3,13 +3,14 @@ Finviz Screener Results - 52wk-high - 2025-04-18
 
 Screening Criteria:
 - Avg Volume > 1M
+- Current Volume > 1M
 - Price > $50
 - ATR > 3
 - 52-Week High
 - Above 50/200 SMA
 
 URL:
-https://finviz.com/screener.ashx?v=111&f=sh_avgvol_o1000,sh_price_o50,ta_averagetruerange_o3,ta_highlow52w_nh,ta_sma200_pa,ta_sma50_pa&ft=4&o=-volume
+https://finviz.com/screener.ashx?v=111&f=sh_avgvol_o1000,sh_curvol_o1000,sh_price_o50,ta_averagetruerange_o3,ta_highlow52w_nh,ta_sma200_pa,ta_sma50_pa&ft=4&o=-volume
 ------------------------------------------------------------
 
 +------+----------+---------------------------------+--------------------+------------+-----------+--------------+-------+---------+----------+-----------+
