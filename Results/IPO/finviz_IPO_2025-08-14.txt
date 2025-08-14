@@ -13,7 +13,7 @@ https://finviz.com/screener.ashx?v=111&p=w&f=ind_stocksonly,ipodate_today,sh_pri
 +------+----------+----------------------------------+-----------+----------------------------------+-----------+--------------+-------+---------+----------+------------+
 |   No | Ticker   | Company                          | Sector    | Industry                         | Country   | Market Cap   | P/E   |   Price | Change   | Volume     |
 +======+==========+==================================+===========+==================================+===========+==============+=======+=========+==========+============+
-|    1 | MIAX     | Miami International Holdings Inc | Financial | Financial Data & Stock Exchanges | USA       | -            | -     |   30.27 | 31.61%   | 12,528,091 |
+|    1 | MIAX     | Miami International Holdings Inc | Financial | Financial Data & Stock Exchanges | USA       | -            | -     |   30.74 | 33.65%   | 18,488,257 |
 +------+----------+----------------------------------+-----------+----------------------------------+-----------+--------------+-------+---------+----------+------------+
 
 Ticker Symbols:
