@@ -1,0 +1,13 @@
+Finviz Screener Results - 52WK-ALL - 2025-09-24
+========================================
+
+Screening Criteria:
+- 52WK-ALL
+- Price > $30
+- Above 50/200 SMA
+
+URL:
+https://finviz.com/screener.ashx?v=111&f=sh_price_o30,ta_averagetruerange_o2,ta_highlow52w_nh,ta_sma200_pa,ta_sma50_pa&ft=4&o=-volume
+------------------------------------------------------------
+
+No tickers found.
