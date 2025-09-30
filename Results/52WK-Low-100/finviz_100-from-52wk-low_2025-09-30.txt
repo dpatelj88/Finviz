@@ -1,0 +1,16 @@
+Finviz Screener Results - 100-from-52wk-low - 2025-09-30
+========================================
+
+Screening Criteria:
+- Avg Volume > 1M
+- Current Volume > 1M
+- Price > $30
+- ATR > 2.5
+- 100% Above 52-Week Low
+- Above 50/200 SMA
+
+URL:
+https://finviz.com/screener.ashx?v=111&f=sh_avgvol_o1000,sh_curvol_o1000,sh_price_o30,ta_averagetruerange_o2.5,ta_highlow52w_a100h,ta_sma200_pa,ta_sma50_pa&ft=4&o=-volume
+------------------------------------------------------------
+
+No tickers found.
