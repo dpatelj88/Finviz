@@ -9,7 +9,7 @@ Screening Criteria:
 - Above 50/200 SMA
 
 URL:
-https://finviz.com/screener.ashx?v=110&f=ind_stocksonly,sh_price_o30,ta_averagetruerange_o2,ta_highlow52w_nh,ta_sma200_pa,ta_sma50_pa&ft=4&o=-volume
+https://finviz.com/screener.ashx?v=111&f=ind_stocksonly,sh_price_o30,ta_averagetruerange_o2,ta_highlow52w_nh,ta_sma200_pa,ta_sma50_pa&ft=4&o=-volume
 ------------------------------------------------------------
 
 +------+----------+---------------------------------------------+------------------------+------------------------------------------+-------------+--------------+---------+---------+----------+------------+
