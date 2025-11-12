@@ -6,10 +6,10 @@ Screening Criteria:
 - Price > $30
 - ATR > 2
 - Monthly +20% Up
-- Above 50/200 SMA
+- Above 200 SMA
 
 URL:
-https://finviz.com/screener.ashx?v=111&f=ind_stocksonly%2Csh_price_o30%2Cta_averagetruerange_o2%2Cta_perf_4w20o%2Cta_sma200_pa%2Cta_sma50_pa&ft=4&o=-volume
+https://finviz.com/screener.ashx?v=111&f=ind_stocksonly,sh_price_o30,ta_averagetruerange_o2,ta_perf_4w20o,ta_sma200_pa&ft=4&o=-volume
 ------------------------------------------------------------
 
 +------+----------+--------------------------------------------------+------------------------+-----------------------------------------+----------------+--------------+---------+---------+----------+------------+
